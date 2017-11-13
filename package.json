@@ -1,0 +1,14 @@
+{
+    "name": "application-name",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node nodeServer.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.4",
+        "delivery": "0.0.6",
+        "express": "3.3.5",
+        "socket.io": "latest"
+    }
+}
