@@ -1,1 +1,1 @@
-echo "# nodechat"
+# nodechat
